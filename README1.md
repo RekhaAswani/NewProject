@@ -1,5 +1,5 @@
-# NewProject
-Practical
+// java program working on github for enhacing knowledge 
+			 
 import java.util.*;
 public class ArrayListDemo 
 {
