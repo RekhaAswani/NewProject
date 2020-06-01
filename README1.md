@@ -1,4 +1,6 @@
 // java program working on github for enhacing knowledge 
+
+// Program for array list.
 			 
 import java.util.*;
 public class ArrayListDemo 
